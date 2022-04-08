@@ -33,7 +33,7 @@ function shadeKeyBoard(letter, color) {
                 return
             } 
 
-            if (oldColor === '#FBF38A' && color !== 'green') {
+            if (oldColor === '#FBF38A' && color !== 'BEE5B0') {
                 return
             }
 
